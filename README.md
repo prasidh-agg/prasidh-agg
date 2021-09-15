@@ -26,3 +26,6 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasidh-agg&show_icons=true&locale=en" alt="prasidh-agg" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasidh-agg&" alt="prasidh-agg" /></p>
+<br></br>
+<br></br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)

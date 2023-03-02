@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Prasidh</h1>
 <h3 align="center">A passionate developer always looking to Learn.</h3>
 
+- 💻 I'm current studying Masters in CS at **Arizona State University**
 
-- 🔭 I’m currently working for **Deloitte USI as a Business Analyst**
+- 🔭 I’m currently working at the Maths Department at **Arizona State University**, and open for Summer Internship opportunities
 
-- 🌱 I’m currently learning **Bash Scripting, ReactJS**
+- 🌱 I’m currently learning **Hacking using Pwn, Shell scripting, Python automation, Data Mining**
 
-- 👯 I’m looking to collaborate on **Open-source projects**
+- 👯 I’m looking to collaborate on **Open-source/Automation projects**
 
-- 💬 Ask me about **Git, Spring-Boot, Java, devOps**
+- 💬 Ask me about **Git, Spring-Boot, Java, devOps, automation**
 
-- 📫 How to reach me **aprasidh@gmail.com**
+- 📫 How to reach me **paggar10@asu.edu**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/prasidhagg/](https://www.linkedin.com/in/prasidhagg/)
 

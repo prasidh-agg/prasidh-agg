@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prasidh</h1>
-<h3 align="center">A passionate developer always looking to Learn.</h3>
+<h3 align="center">A passionate learner before anything else.</h3>
 
-- 💻 I'm current studying Masters in CS at **Arizona State University**
+- 💻 I'm currently studying Masters in CS at **Arizona State University**
 
 - 🔭 I’m currently working at the Maths Department at **Arizona State University**, and open for Summer Internship opportunities
 
-- 🌱 I’m currently learning **Hacking using Pwn, Shell scripting, Python automation, Data Mining**
+- 🌱 I’m currently learning **Hacking using Pwn, Shell scripting, Python automation, and Data Mining**
 
 - 👯 I’m looking to collaborate on **Open-source/Automation projects**
 

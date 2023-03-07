@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasidh</h1>
-<h3 align="center">A passionate learner before anything else.</h3>
+<h3 align="center">🚀 A passionate learner before anything else.</h3>
+
 
 - 💻 I'm currently studying Masters in CS at **Arizona State University**
 

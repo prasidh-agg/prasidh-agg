@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Git, Spring-Boot, Java, devOps, automation**
 
-- 📫 How to reach me **paggar10@asu.edu**
+- 📫 You can reach me at -> **paggar10@asu.edu**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/prasidhagg/](https://www.linkedin.com/in/prasidhagg/)
 

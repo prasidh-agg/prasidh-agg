@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/prasidhagg/](https://www.linkedin.com/in/prasidhagg/)
 
-- 🙇🏻‍♂️ You can learn more about me at [https://prasidh-agg.github.io/]
+- 🙇🏻‍♂️ You can learn more about me on my [https://prasidh-agg.github.io/](here)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

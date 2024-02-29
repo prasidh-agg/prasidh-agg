@@ -30,6 +30,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prasidh-agg&label=Profile%20views&color=0e75b6&style=flat" alt="prasidh-agg" /> </p>
 <p align="center"> <img alt="Prasidh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasidh-agg&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasidh-agg&show_icons=true&locale=en" alt="prasidh-agg" /></p>
+<p align="center"><img alt="Prasidh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prasidh-agg&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasidh-agg&" alt="prasidh-agg" /></p>

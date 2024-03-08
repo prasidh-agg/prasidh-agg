@@ -4,7 +4,7 @@
 
 - 💻 I'm currently studying Masters in CS at **Arizona State University**
 
-- 🔭 I’m currently working at the Maths Department at **Arizona State University**, and open for Summer Internship opportunities
+- 🔭 I’m currently working at the Maths Department at **Arizona State University**, and looking for full time SDE roles starting May 2024.
 
 - 🌱 I’m currently learning **Hacking using Pwn, Shell scripting, Python automation, and Data Mining**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasidh Aggarwal!</h1>
 <h3 align="center">A passionate learner before anything else! Currently looking for full-time Software Developer opportunities in the US🇺🇸</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasidh-agg&label=Profile%20views&color=4439db&style=flat" alt="prasidh-agg" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prasidh-agg&label=Profile%20views&color=4439db&style=flat" alt="prasidh-agg" /> </p>
 
 - 🔭 I’m currently working on my personal portfolio/blog built using astrofy [prasidh-agg.netlify.app/](prasidh-agg.netlify.app/)
 

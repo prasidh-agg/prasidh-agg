@@ -9,8 +9,6 @@
 
 - 🤲🏻 I’m looking for full time SDE/Full stack developer roles **in the US🇺🇸**
 
-- 🚀 I'm currently learning **Next.Js, Tailwind.css, TypeScript**
-
 - 👨‍💻 All of my projects are available at [prasidh-agg.netlify.app/](prasidh-agg.netlify.app/)
 
 - 📄 You can download my resume at [https://turquoise-cherida-69.tiiny.site/](https://turquoise-cherida-69.tiiny.site/)
@@ -18,8 +16,6 @@
 - 💬 Ask me about **Java, Springboot, AWS, Frontend**
 
 - 📫 How to reach me **aprasidh@gmail.com**
-
-- ⚡ Fun fact [I am learning card magic and cardistry.](I am learning card magic and cardistry.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

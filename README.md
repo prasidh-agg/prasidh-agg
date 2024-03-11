@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prasidh-agg&label=Profile%20views&color=4439db&style=flat" alt="prasidh-agg" /> </p>
 
-- 🔭 I’m currently working on my personal portfolio/blog built using astrofy [prasidh-agg.netlify.app/](prasidh-agg.netlify.app/)
+- 🔭 I’m currently working on my personal portfolio/blog built using astrofy [prasidh-agg.com/](prasidh-agg.com/)
 
 - 🌱 I’m currently pursuing my **Masters in Computer Science at ASU 🌻**
 

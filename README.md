@@ -3,13 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prasidh-agg&label=Profile%20views&color=4439db&style=flat" alt="prasidh-agg" /> </p>
 
-- 🔭 I’m currently working on my personal portfolio/blog built using astrofy [prasidh-agg.com](https://prasidh-agg.com)
-
 - 🌱 I’m currently pursuing my **Masters in Computer Science at ASU 🌻**
 
 - 🤲🏻 I’m looking for full time SDE/Full stack developer roles **in the US🇺🇸**
 
-- 👨‍💻 All of my projects are available at [prasidh-agg.netlify.app/](prasidh-agg.netlify.app/)
+- 👨‍💻 All of my projects are available on my [blog/website](prasidh-agg.com/)
 
 - 📄 You can download my resume at [https://turquoise-cherida-69.tiiny.site/](https://turquoise-cherida-69.tiiny.site/)
 
